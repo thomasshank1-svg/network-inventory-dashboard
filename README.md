@@ -1,5 +1,7 @@
 # NetLedger
 
+![Project screenshot](docs/screenshot.png)
+
 NetLedger is an IT network inventory dashboard for tracking devices, IP addresses, owners, warranty dates, status, and notes.
 
 ## Run
